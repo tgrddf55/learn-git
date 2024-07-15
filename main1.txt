@@ -1,0 +1,2 @@
+this is main1.txt
+I want to test the git command.
