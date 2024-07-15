@@ -1,0 +1,4 @@
+this is dev1.txt
+I want to test the branch
+ing feature of git
+I am adding this line to test the branching feature of git
